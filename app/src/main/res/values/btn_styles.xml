@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonYellowRounded18RubikMedium14Black" parent="Widget.AppCompat.Button">
+        <item name="fontFamily">@font/rubik_medium</item>
+        <item name="android:background">@drawable/bg_button_gradient_yellow_rounded18</item>
+        <item name="android:textColor">@color/colorBlack87</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="ButtonBlueRounded18RubikMedium14White" parent="Widget.AppCompat.Button">
+        <item name="fontFamily">@font/rubik_medium</item>
+        <item name="android:background">@drawable/bg_button_gradient_blue_rounded18</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+
+
+</resources>

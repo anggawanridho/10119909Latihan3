@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NunitoBold" parent="TextAppearance.AppCompat">
+        <item name="fontPath">font/Nunito-Bold.ttf</item>
+    </style>
+
+    <style name="RubikRegular" parent="TextAppearance.AppCompat">
+        <item name="fontPath">font/Rubik-Regular.ttf</item>
+    </style>
+
+    <style name="TextGunmetalNunitoBold24" parent="NunitoBold">
+        <item name="android:textColor">@color/colorGunmetal</item>
+        <item name="android:textSize">@dimen/font24</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextNunitoBold24Black87" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/nunito_bold</item>
+        <item name="android:textColor">@color/colorBlack87</item>
+        <item name="android:textSize">@dimen/font24</item>
+    </style>
+
+    <style name="TextBlack87NunitoBold18" parent="NunitoBold">
+        <item name="android:textColor">@color/colorBlack87</item>
+        <item name="android:textSize">@dimen/font18</item>
+    </style>
+
+    <style name="TextBlack87RubikRegular12" parent="RubikRegular">
+        <item name="android:textColor">@color/colorBlack87</item>
+        <item name="android:textSize">@dimen/font12</item>
+    </style>
+
+    <style name="TextRubikRegular15Black87" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/rubik_regular</item>
+        <item name="android:textColor">@color/colorBlack87</item>
+        <item name="android:textSize">@dimen/font15</item>
+    </style>
+
+    <style name="TextRubikRegular12Black87" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/rubik_regular</item>
+        <item name="android:textColor">@color/colorBlack87</item>
+        <item name="android:textSize">@dimen/font12</item>
+    </style>
+
+    <style name="TextRubikMedium24Black87" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/rubik_medium</item>
+        <item name="android:textColor">@color/colorBlack87</item>
+        <item name="android:textSize">@dimen/font24</item>
+    </style>
+</resources>
